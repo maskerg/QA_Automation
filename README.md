@@ -1,2 +1,2 @@
 # QA_Automation
-Playwright Automation
+Playwright Automation framework setup
