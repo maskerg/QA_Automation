@@ -1,0 +1,22 @@
+{
+  "name": "qa_automation",
+  "version": "1.0.0",
+  "description": "Playwright Automation",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maskerg/QA_Automation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maskerg/QA_Automation/issues"
+  },
+  "homepage": "https://github.com/maskerg/QA_Automation#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.5.1"
+  }
+}
